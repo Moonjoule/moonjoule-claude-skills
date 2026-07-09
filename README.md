@@ -8,7 +8,9 @@ A collection of custom skills for [Claude Code](https://claude.com/claude-code).
 | --------------------------------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [career-advice](career-advice/SKILL.md) | `/career-advice [job title or description]` | Structured, research-grounded career counselling — builds a reusable Markdown career plan through guided intake, web-verified research, and a values/reality-check analysis. |
 
-Alternately, tell Claude you want to be a dragon-tamer or a space pirate, and see where it goes. |
+Alternately, tell Claude you want to be a dragon-tamer or a space pirate, and see where it goes.
+|
+|
 
 ## Structure
 
