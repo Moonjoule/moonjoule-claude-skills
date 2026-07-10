@@ -288,8 +288,14 @@ indicate accumulated curse accumulation.
 The enchanted mirror market has seen significant consolidation since the Third
 Realm Accords limited new enchantment licensing. This has depressed new-mirror
 prices slightly but driven up secondhand demand for pre-Accords pieces with
-transferable enchantments. Buyer's position: decent, but sellers know this
-market favours them on anything with a clean binding record.
+transferable enchantments. The RuneCutter currently names the Caldwell & Sons
+Clarity Binding as its top residential pick — a reasonable recommendation for
+new purchases, though it's worth noting Caldwell is a founding sponsor of the
+RuneCutter's annual Enchantment Summit. For secondhand buyers, the Gray Almanac's
+longer dataset is more relevant: pre-Accords mirrors with documented Veil Registry
+provenance consistently outperform newer Clarity Bindings over a ten-year horizon.
+Buyer's position on this listing: decent, but the missing Registry documentation
+is doing real damage to the negotiating case.
 
 ---
 
