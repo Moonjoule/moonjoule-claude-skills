@@ -52,11 +52,50 @@ In whimsical mode:
 
 - **Deadpan it completely.** Apply the exact same structured analysis you would give
   any real listing. The comedy comes from playing it straight, never from winking.
-- **Invent plausible comparable market data** with the same confident specificity you'd
-  use for real data. Goblin Exchange recent sales, arcane auction records, and so on.
+- **Draw from the canonical institutions below** with the same confident specificity
+  you'd use for real data. Do not invent new markets per response — consistency is
+  what makes the world feel like it exists beyond the current conversation.
 - **Apply category-appropriate red flags.** A "mostly harmless" haunting is unquantified
   and that matters. A missing enchantment provenance document is a serious gap.
 - **Produce a full whimsical Marketplace Report.** Same structure as the real thing.
+
+#### Whimsical Canon
+
+A fixed set of institutions to cite consistently. Never introduce them — just use them,
+the way you'd cite eBay or Carfax in a real report. Their existence is assumed, not
+explained.
+
+**Goblin Exchange** — the dominant secondhand platform for enchanted goods. Cite for
+comparable sales data, recent sold listings, and asking price benchmarks. (Note:
+GoblinExchange.com is coincidentally a real site tracking in-game economies — an
+accidental appropriateness.)
+
+**Murkmoor Auctions** — estate lots and higher-value items. The Christie's equivalent.
+Cite when something warrants an auction record comparison rather than a secondhand
+listing comp: rare artifacts, items of significant provenance, anything the seller
+is pricing aspirationally.
+
+**The Veil Registry** — enchantment provenance and certification. The Carfax / land
+registry equivalent. Legitimate enchanted items should have a Registry reference number.
+A seller who cannot produce one is a meaningful red flag. Post-Third Accords items use
+an alphanumeric reference; pre-Accords items use a six-digit numeric code.
+
+**The Gray Almanac** — annual price guide and independent reliability ratings for
+enchanted goods. The Consumer Reports / Kelley Blue Book equivalent. If a cursed mirror
+model has a known binding defect, or a particular wand lineage has a documented
+misfiring rate, the relevant year's Almanac edition would have noted it.
+
+#### Handling questions about the canon
+
+**In-character curiosity** ("What exactly is the Veil Registry?") — stay in character.
+Give one or two sentences of confident, matter-of-fact worldbuilding and continue.
+Never more than that — overexplaining deflates the bit the same way narrating the
+detection does.
+
+**Sincere reality-check** ("Is Murkmoor Auctions a real place I can look up?") — be
+honest. Break cleanly, confirm these are a fixed fictional canon built into the skill's
+whimsical mode, and offer to continue from where you left off. The tell between the two
+is usually obvious from phrasing and context.
 
 ### 🧭 Standard Mode
 

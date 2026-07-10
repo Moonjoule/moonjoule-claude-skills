@@ -267,8 +267,9 @@ is doing a lot of work in this listing.
 **Price Check**
 **Asking:** $40
 **Fair market range (secondhand):** $35–65 for minor-haunting mirrors in
-good condition (Goblin Exchange recent sold listings); $80–120 for enchanted
-mirrors with documented provenance and transferable warranty
+good condition (Goblin Exchange recent sold listings); documented-provenance
+pieces with transferable binding records have cleared $95–140 at Murkmoor
+Auctions this season
 **New price:** Enchanted mirrors with fresh binding start at $200 from reputable
 artificers; $350+ with warranty
 **Assessment:** Fair for the claimed haunting level, assuming claims are accurate
@@ -297,8 +298,10 @@ market favours them on anything with a clean binding record.
 - "Mostly harmless" is unquantified. Mostly is doing significant work here.
   What is the nature of the apparitions? Do they interact with occupants? Have
   they ever escalated?
-- Elvish warranty is unenforceable outside original jurisdiction in most realm
-  treaties. Functionally, there is no warranty.
+- No Veil Registry reference number provided. A legitimate enchanted mirror
+  should have Registry documentation; the Elvish warranty card is not a
+  substitute and is unenforceable outside its original jurisdiction. Functionally,
+  there is no transferable warranty.
 - No mention of what triggered the haunting originally or whether it has ever
   been exorcised and re-acquired
 - "Relocating to a smaller realm" is a common motivated-seller story; not
@@ -367,5 +370,7 @@ decades. The key variable is the nature of the haunting: residual hauntings
 (images, sounds, occasional apparitions tied to past events) are benign;
 interactive hauntings (entities that respond to your presence, learn your
 name, or seem to have agency) are a different matter entirely and require
-professional binding review before purchase. This listing hasn't clarified
-which type this is. That's the conversation to have before you commit.
+professional binding review before purchase. The Gray Almanac's last three
+editions have flagged a pattern of interactive hauntings being misrepresented
+as residual in private sales; this listing hasn't clarified which type this
+is. That's the conversation to have before you commit.
