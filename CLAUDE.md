@@ -4,8 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repository is
 
-A collection of custom Claude Code skills. There is no build system, package manager, or test
-suite — the repository is purely Markdown-based skill definitions consumed by Claude Code at
+A collection of custom Claude Code skills. There is no build system, package manager, or test suite — the repository is purely Markdown-based skill definitions consumed by Claude Code at
 runtime.
 
 ## Structure
