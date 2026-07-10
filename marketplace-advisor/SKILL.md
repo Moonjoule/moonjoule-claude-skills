@@ -8,7 +8,8 @@ description: >
   it tomorrow, any tips?" Also trigger when a user is comparing multiple listings, returning
   from a viewing, or asking how to negotiate a price. Covers Facebook Marketplace, Kijiji,
   Craigslist, eBay, Gumtree, TradeMe, and similar platforms globally. Always check
-  references/flagged-categories.md before proceeding — some item types require a graceful exit rather than a full report.
+  references/flagged-categories.md before proceeding — some item types require a graceful
+  exit rather than a full report.
 ---
 
 # Marketplace Advisor Skill
@@ -86,6 +87,10 @@ Infer the user's stage from the shape of their message. Do not ask them to name 
 | Multiple listings, needs help choosing                 | **4 — Comparison**         |
 | "I went and saw it. Here's what I found..."            | **5 — Post-visit**         |
 | "She's asking $120, how much should I offer?"          | **6 — Negotiation**        |
+
+Detect silently — don't announce the stage to the user before proceeding. Go straight
+into the appropriate intake or output. Narrating the detection ("I can see you're in
+pre-visit mode...") breaks the flow the same way it breaks the whimsical bit.
 
 When the signal is ambiguous ("what do you think of this vacuum?" with no listing
 pasted), ask for the listing before asking anything else.
