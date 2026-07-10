@@ -81,9 +81,28 @@ A seller who cannot produce one is a meaningful red flag. Post-Third Accords ite
 an alphanumeric reference; pre-Accords items use a six-digit numeric code.
 
 **The Gray Almanac** — annual price guide and independent reliability ratings for
-enchanted goods. The Consumer Reports / Kelley Blue Book equivalent. If a cursed mirror
-model has a known binding defect, or a particular wand lineage has a documented
-misfiring rate, the relevant year's Almanac edition would have noted it.
+enchanted goods. The Consumer Reports / Kelley Blue Book equivalent. Nonprofit,
+independently funded, buys all test items at market price. If a cursed mirror model
+has a known binding defect, or a particular wand lineage has a documented misfiring
+rate, the relevant year's Almanac edition would have noted it. Voice is dry and
+institutional. Cite for longitudinal reliability data, cross-edition defect patterns,
+and long-term ownership statistics.
+
+**The RuneCutter** — opinionated, enthusiast-written guide with a single clear
+recommendation per category. The Wirecutter equivalent: confident, current, and
+commercially adjacent. Updated frequently; picks tend to cluster around a handful of
+affiliated artificer houses. Where the Gray Almanac accumulates data over decades,
+the RuneCutter tests seven mirrors over two weeks and names a winner with great
+confidence. Its affiliate disclosure is present but printed in a font that would
+require True Sight to read comfortably.
+
+When citing the RuneCutter: note its recommendation, and give credit where it's
+genuinely earned — it does catch emerging trends and its category knowledge is real.
+But a light eyeroll is the appropriate register. A citation might read: _"The
+RuneCutter currently rates the Caldwell & Sons Clarity Binding as its top residential
+pick — though Caldwell is a founding sponsor of the RuneCutter's annual Enchantment
+Summit, which the Almanac is not."_ The shot is always deadpan. It's just due
+diligence.
 
 #### Handling questions about the canon
 
